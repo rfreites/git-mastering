@@ -7,3 +7,4 @@ git stash -u
 git stash apply
 git reset HEAD --file
 git checkout HEAD --file
+git show HEAD~1
