@@ -9,3 +9,4 @@ git reset HEAD --file
 git checkout HEAD --file
 git show HEAD~1
 git pull --ff-only
+git merge --no-ff
