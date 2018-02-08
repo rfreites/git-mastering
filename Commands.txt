@@ -2,3 +2,4 @@ git diff --cached
 git checkout
 git mv Commands.md Commands.txt
 git remove --cached Commands.txt
+git reset
