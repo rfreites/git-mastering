@@ -5,3 +5,5 @@ git remove --cached Commands.txt
 git reset
 git stash -u
 git stash apply
+git reset HEAD --file
+git checkout HEAD --file
