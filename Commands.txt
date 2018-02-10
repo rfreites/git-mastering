@@ -11,3 +11,4 @@ git show HEAD~1
 git pull --ff-only
 git merge --no-ff
 git blame --file
+git diff HEAD HEAD~2
