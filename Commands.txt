@@ -13,3 +13,4 @@ git merge --no-ff
 git blame --file
 git diff HEAD HEAD~2
 git log --grep --filterword --oneline
+git log -GKeyWord --patch
