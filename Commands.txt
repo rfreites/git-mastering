@@ -12,3 +12,4 @@ git pull --ff-only
 git merge --no-ff
 git blame --file
 git diff HEAD HEAD~2
+git log --grep --filterword --oneline
