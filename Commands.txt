@@ -20,3 +20,4 @@ git commit --amend
 git rebase -i --history_point
 git reflog -reference
 git revert --reference
+git cherry-pick --reference_commit
