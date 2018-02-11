@@ -16,3 +16,4 @@ git log --grep --filterword --oneline
 git log -GKeyWord --patch
 git diff branch1..branch2 --oneline
 git commit --amend
+git rebase -i --history_point
