@@ -15,3 +15,4 @@ git diff HEAD HEAD~2
 git log --grep --filterword --oneline
 git log -GKeyWord --patch
 git diff branch1..branch2 --oneline
+git commit --amend
